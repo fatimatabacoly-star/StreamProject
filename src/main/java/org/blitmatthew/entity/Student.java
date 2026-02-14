@@ -1,6 +1,7 @@
 package org.blitmatthew.entity;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
+import java.time.LocalDate;
 
 // Student class to match the JSON structure
 public class Student {
